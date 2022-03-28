@@ -27,7 +27,7 @@
   }
   `
   
- - for a mutation, you will need to add 
+ - for a mutation, you will need to add this object to the query variables in the GraphiQL interface to test
  - `{
     "name": "username",
     "email": "hey@gmail.com",
